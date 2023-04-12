@@ -1,0 +1,125 @@
+body{
+		margin: 0;
+		padding: 0;
+		font-family:Arial;
+		box-sizing: border-box;
+	}
+	    #log-div
+	    {
+			 width:100%
+        	   		    min-height:50px;
+        	   		    line-height:50px;
+        	   		    padding-left:2%;
+        }
+
+		header{
+			height: 110px;
+			width: auto;
+			background-color:black;
+			color: #fff;
+		display: block;
+		margin: 0 auto;
+
+		}
+		header nav ul{
+			text-align: right;
+			margin-left: 0px auto;
+		}
+		header nav ul li{
+			list-style: none;
+			display: inline-block;
+			line-height: 10px;
+		}
+		header nav ul li a{
+			display: block;
+			text-decoration: none;
+			padding: 0 20px;
+			color: cadetblue;
+			font-size: 25px;
+			margin-top: 30px;
+		}
+		.wrapper{
+			margin: 0 auto 0 60px;
+			width:1000px;
+			height: fit-content;
+		}
+		.online{
+			line-height: 100px;
+		}
+		.footer{
+			width: calc(100% - 80px);
+			height: 150px;
+			background-color:black;
+			color: cadetblue;
+			padding:40px 40px;
+			margin: top 5px;
+		}
+		.footer ul{
+			list-style: none;
+			display:inline-block
+		}
+		.footer ul li{
+			display: inline-block;
+		}
+
+		.footer ul li a{
+			text-decoration: none;
+			color :cadetblue;
+			display: block;
+			padding: 0 20px;
+			font-size: 20px;
+		}
+		
+		 ul li a:hover{
+			color:red;
+
+		}
+.about{
+	height: 1000px;
+}   
+.Affilate   {
+	height: 1000px;
+
+}
+.our{
+	height: 1000px;
+}
+.privacy{
+	height: 1000px;
+}
+		#main{
+			width: auto;
+			height: 500px;
+			background: coral;
+		}
+		#fieldset{
+			background: orange;
+			text-align: center;
+		}
+		#footer{
+			clear: both;
+			background: beige;
+			width: auto;
+			height:50px;
+			text-align: center;
+		}
+		.bac{
+			background-image: url("Online-Shoping-System.webp");
+		}
+		.our{
+			background-color: sienna;
+			font-size: 60px;
+			color: aqua;
+		}
+		.online{
+			background-image: url("green grass.jpg");
+			
+		}
+		.about{
+			color: darkolivegreen;
+			font-size: 40px;
+			font-style: italic;
+			text-transform: capitalize;
+			font-weight: bold;
+		}
+
